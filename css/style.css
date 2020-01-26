@@ -81,7 +81,9 @@ footer{
 
 
 
-
+video {
+  width: 100%;
+}
 
 /* header */
 
@@ -312,6 +314,7 @@ display: flex;
 }
 #landing > .header-content > h1.title {
   font-size: 4em;
+  color: #fff;
 }
 section#maincontent {
   padding-top: 280px;
