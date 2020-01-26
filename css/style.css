@@ -15,7 +15,7 @@
 html, body {
   width: auto;
   height: auto;
-  font-family: 'OpenSansLight';
+  font-family: "OpenSansLight","Times New Roman", Times, serif;;
 }
 
 body{
@@ -330,4 +330,9 @@ section p{
 .required:after {
   content: ' *';
   color: red;
+}
+
+
+#sportcontent img{
+  width:60%;
 }
